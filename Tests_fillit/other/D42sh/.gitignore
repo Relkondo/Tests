@@ -1,0 +1,22 @@
+# Pollution
+*.DS_Store
+*.vscode
+
+# Executable && lib
+*.a
+*a.out
+/42sh
+
+# Compiled sources
+*obj
+*.o
+
+# Valgrind folder
+*.dSYM
+
+# Secure malloc tool residues
+.sym_logs
+*.infected
+
+# VIM
+*.swp
